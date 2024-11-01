@@ -6,6 +6,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using DotnetStockAPI.Models;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -14,6 +15,7 @@ namespace DotnetStockAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [EnableCors("MultipleOrigins")]
     public class AuthenticateController : ControllerBase
     {
         private readonly ApplicationDbContext _context;

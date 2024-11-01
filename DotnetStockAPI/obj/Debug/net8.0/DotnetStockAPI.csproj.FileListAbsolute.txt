@@ -112,3 +112,4 @@
 /Users/two-mac/Documents/computing/angular/workShop/stockApp/DotnetStockAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/two-mac/Documents/computing/angular/workShop/stockApp/DotnetStockAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/two-mac/Documents/computing/angular/workShop/stockApp/DotnetStockAPI/obj/Debug/net8.0/DotnetStockAPI.sourcelink.json
+/Users/two-mac/Documents/computing/angular/workShop/stockApp/DotnetStockAPI/bin/Debug/net8.0/DotnetStockAPI.staticwebassets.runtime.json

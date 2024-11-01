@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "eVq5cg9sFLVPcTgmbStODbjxrhihuVoegIwj3K48krY=",
+  "Hash": "OGoWB/huzcEWfubO14LD81XdlrhXJINKN7b7AUwMPpQ=",
   "Source": "DotnetStockAPI",
   "BasePath": "_content/DotnetStockAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DotnetStockAPI/wwwroot",
+      "Source": "DotnetStockAPI",
+      "ContentRoot": "/Users/two-mac/Documents/computing/angular/workShop/stockApp/DotnetStockAPI/wwwroot/",
+      "BasePath": "_content/DotnetStockAPI",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
